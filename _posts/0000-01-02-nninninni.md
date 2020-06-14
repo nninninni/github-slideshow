@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"when will covid 19 end "
 Use the left arrow to go back!
